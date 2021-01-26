@@ -1,0 +1,20 @@
+{
+  "name": "login-signup-pages-app",
+  "version": "1.0.0",
+  "description": "Login and signup pages made using JS, node.js, express, and mongodb",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "express",
+    "mongodb"
+  ],
+  "author": "Ross Keeley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
